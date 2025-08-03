@@ -1,4 +1,8 @@
 package br.com.aline.forumhub.repository;
 
-public interface UsuarioRepository {
+import br.com.aline.forumhub.domain.Usuario;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface UsuarioRepository extends JpaRepository<Usuario, Long> {
+    Usuario findByEmail(String email);
 }

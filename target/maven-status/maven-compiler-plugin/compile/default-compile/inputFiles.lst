@@ -1,0 +1,16 @@
+C:\Curso\Forum-Alura\src\main\java\br\com\aline\forumhub\repository\UsuarioRepository.java
+C:\Curso\Forum-Alura\src\main\java\br\com\aline\forumhub\security\SecurityConfig.java
+C:\Curso\Forum-Alura\src\main\java\br\com\aline\forumhub\dto\DetalhesTopico.java
+C:\Curso\Forum-Alura\src\main\java\br\com\aline\forumhub\controller\TopicoController.java
+C:\Curso\Forum-Alura\src\main\java\br\com\aline\forumhub\domain\Usuario.java
+C:\Curso\Forum-Alura\src\main\java\br\com\aline\forumhub\ForumHubApplication.java
+C:\Curso\Forum-Alura\src\main\java\br\com\aline\forumhub\security\TokenService.java
+C:\Curso\Forum-Alura\src\main\java\br\com\aline\forumhub\controller\AutenticacaoController.java
+C:\Curso\Forum-Alura\src\main\java\br\com\aline\forumhub\dto\DadosLogin.java
+C:\Curso\Forum-Alura\src\main\java\br\com\aline\forumhub\repository\CursoRepository.java
+C:\Curso\Forum-Alura\src\main\java\br\com\aline\forumhub\domain\Curso.java
+C:\Curso\Forum-Alura\src\main\java\br\com\aline\forumhub\security\AutenticacaoService.java
+C:\Curso\Forum-Alura\src\main\java\br\com\aline\forumhub\repository\TopicoRepository.java
+C:\Curso\Forum-Alura\src\main\java\br\com\aline\forumhub\dto\DadosTopico.java
+C:\Curso\Forum-Alura\src\main\java\br\com\aline\forumhub\domain\Topico.java
+C:\Curso\Forum-Alura\src\main\java\br\com\aline\forumhub\dto\AtualizacaoTopico.java

@@ -1,0 +1,9 @@
+br\com\aline\forumhub\dto\DadosLogin.class
+br\com\aline\forumhub\dto\DadosTopico.class
+br\com\aline\forumhub\domain\Usuario.class
+br\com\aline\forumhub\dto\DetalhesTopico.class
+br\com\aline\forumhub\domain\Curso.class
+br\com\aline\forumhub\repository\UsuarioRepository.class
+br\com\aline\forumhub\security\AutenticacaoService.class
+br\com\aline\forumhub\domain\Topico.class
+br\com\aline\forumhub\repository\CursoRepository.class
