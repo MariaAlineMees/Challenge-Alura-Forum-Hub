@@ -92,11 +92,11 @@ A API estará disponível em:
 | PUT         | `/topicos/{id}`  | Atualiza tópico existente  | ✅ Sim       | `{ "titulo": "...", "mensagem": "..." }`           |
 | DELETE      | `/topicos/{id}`  | Exclui (desativa) tópico   | ✅ Sim       | N/A                                                 |
 
-👩‍💻 Autora
-Feito com 💙 por Maria Aline Mees
+👩‍💻 Autora:
+Maria Aline Mees
 
 
-📜 Licença
+📜 Licença:
 Este projeto está sob a licença MIT.
 Consulte o arquivo LICENSE para mais detalhes.
 
