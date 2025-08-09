@@ -8,7 +8,7 @@
 ## 📖 Sobre o Projeto
 
 O **Fórum Hub** é uma API RESTful desenvolvida como parte do Challenge de Back-End da Alura Oracle Next Education (ONE).  
-Seu objetivo é criar o back-end de um fórum de discussão, permitindo que usuários criem, leiam, atualizem e excluam tópicos, com autenticação segura baseada em tokens JWT.
+O objetivo é criar o back-end de um fórum de discussão, permitindo que usuários criem, leiam, atualizem e excluam tópicos, com autenticação segura baseada em tokens JWT.
 
 Este projeto demonstra a aplicação de conceitos essenciais do desenvolvimento back-end com Java e Spring Boot, incluindo:
 
@@ -62,7 +62,7 @@ Este projeto demonstra a aplicação de conceitos essenciais do desenvolvimento 
 
 1. **Clone o repositório**:
  ```bash
-git clone https://github.com/seu-usuario/forum-hub.git
+git clone https://github.com/MariaAlineMees/forum-hub.git
 cd forum-hub
 ```
 
